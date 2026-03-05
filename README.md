@@ -616,3 +616,9 @@ Python在以下领域都有用武之地。
 
 #### 第100天：[Python面试题实录](./Day91-100/100.Python面试题实录.md)
 
+---
+
+### 附录
+
+- [在 VS Code 中处理 Word（.docx）文档](./docs/word-in-vscode.md)
+
